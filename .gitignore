@@ -62,5 +62,3 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
-/.vs
-/.gitignore
